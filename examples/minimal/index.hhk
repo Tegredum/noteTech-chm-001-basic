@@ -1,0 +1,15 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+<body>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="build">
+    <param name="Local" value="topics/index.html">
+  </object></li>
+  <li><object type="text/sitemap">
+    <param name="Name" value="setup">
+    <param name="Local" value="topics/install.html">
+  </object></li>
+</ul>
+</body>
+</html>

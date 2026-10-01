@@ -1,0 +1,15 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=build\manual.chm
+Contents file=toc.hhc
+Index file=index.hhk
+Default topic=topics/index.html
+Display compile progress=Yes
+Full-text search=Yes
+Language=0x409 English (United States)
+Title=CHM Minimal Example
+
+[FILES]
+topics\index.html
+topics\install.html
+assets\help.css

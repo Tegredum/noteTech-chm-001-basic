@@ -1,0 +1,9 @@
+# author: Codex (GPT-6 Astra max), Tegredum
+*.md   text eol=crlf
+*.ps1  text eol=crlf
+*.html text eol=crlf
+*.css  text eol=crlf
+*.hhp  text eol=crlf
+*.hhc  text eol=crlf
+*.hhk  text eol=crlf
+*.chm  binary
